@@ -1,0 +1,1 @@
+Examples of NodeJs. Used for learning NodeJs for the first time.
