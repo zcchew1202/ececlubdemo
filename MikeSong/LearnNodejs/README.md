@@ -1,1 +1,1 @@
-Examples of NodeJs. Used for learning NodeJs for the first time.
+Example programs written while going through online tutorials. Used for learning NodeJs for the first time.
